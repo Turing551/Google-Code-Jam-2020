@@ -7,6 +7,6 @@
 | A   | Vestigium                    | ✅            |  NA            |             | 
 | B   | Nesting Depth                | ✅            | ✅            |             |
 | C   | Parenting Partnering Returns | ✅            | ✅            |             |
-| D   | ESAb ATAd                    | ✅            | ✅           |             |
+| D   | ESAb ATAd                    | ✅            | ✅           | Results hidden until end of round            |
 | E   | Indicium                     | ✅            | Dont Know     |             |
 
