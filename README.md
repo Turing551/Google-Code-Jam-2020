@@ -2,7 +2,7 @@
 
 ### Qualification Round
 
-|     | Question                     | small dataset | large dataset | extra large |
+|     | Question                     | Test set 1    | Test set 2   | Test set 3 |
 | --- | ---------------------------- | ------------- | ------------- | ----------- |
 | A   | Vestigium                    | ✅            |  NA            |   NA          | 
 | B   | Nesting Depth                | ✅            | ✅            |   NA          |
