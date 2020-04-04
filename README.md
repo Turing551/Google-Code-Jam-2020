@@ -4,9 +4,9 @@
 
 |     | Question                     | Test set 1        | Test set 2   | Test set 3 |
 | --- | ---------------------------- | ----------------- | ------------- | ----------- |
-| A   | Vestigium                    |  7 points ✅        |  NA            |   NA          | 
-| B   | Nesting Depth                |  5 points ✅        | 11 points ✅            |   NA          |
-| C   | Parenting Partnering Returns |  7 points ✅        | 12 points ✅            |   NA          |
-| D   | ESAb ATAd                    |  1 point  ✅        | 9 points  ✅           | Results hidden until end of round            |
+| A   | Vestigium                    |  7 points<br/> ✅        |  NA            |   NA          | 
+| B   | Nesting Depth                |  5 points<br/> ✅        | 11 points<br/> ✅            |   NA          |
+| C   | Parenting Partnering Returns |  7 points<br/> ✅        | 12 points<br/> ✅            |   NA          |
+| D   | ESAb ATAd                    |  1 point<br/>  ✅        | 9 points<br/>  ✅           | Results hidden |
 | E   | Indicium                     |  7 points ✅        | Will fail for large dataset(Brute force)     |    NA         |
 
