@@ -11,8 +11,9 @@
 | E   | Indicium                     |  7 points<br/> ✅        | 25 points<br/> ❌    |    NA         |
 
 
-## Score: 100/100
-Score may differ at the end of the round
+## Score: 75/100
+
+## Qualification Round Rank : 559
 
 UserName : Turing1729
 
