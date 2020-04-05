@@ -7,8 +7,8 @@
 | A   | Vestigium                    |  7 points<br/> ✅         |  NA            |   NA          | 
 | B   | Nesting Depth                |  5 points<br/> ✅        | 11 points<br/> ✅            |   NA          |
 | C   | Parenting Partnering Returns |  7 points<br/> ✅        | 12 points<br/> ✅            |   NA          |
-| D   | ESAb ATAd                    |  1 point<br/>  ✅        | 9 points<br/>  ✅           | 16 points<br/>:question: |
-| E   | Indicium                     |  7 points<br/> ✅        | 25 points<br/> :question:    |    NA         |
+| D   | ESAb ATAd                    |  1 point<br/>  ✅        | 9 points<br/>  ✅           | 16 points<br/>✅ |
+| E   | Indicium                     |  7 points<br/> ✅        | 25 points<br/> ❌    |    NA         |
 
 
 ## Score: 100/100
